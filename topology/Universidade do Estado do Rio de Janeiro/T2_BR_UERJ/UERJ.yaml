@@ -63,7 +63,7 @@ Resources:
       StorageCapacityMax: 0
       StorageCapacityMin: 0
   UERJ_CE_2:
-    Active: false
+    Active: true
     ContactLists:
       Administrative Contact:
         Primary:
